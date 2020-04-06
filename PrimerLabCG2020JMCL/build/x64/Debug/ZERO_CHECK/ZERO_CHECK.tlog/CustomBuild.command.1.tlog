@@ -1,0 +1,10 @@
+^C:\USERS\JOSE\ONEDRIVE\DESKTOP\PRUEBACMAKEOPENGL\BUILD\CMAKEFILES\E087EAEC0F8266532C68FBEC4977DF08\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Jose/OneDrive/Desktop/pruebacmakeopengl -BC:/Users/Jose/OneDrive/Desktop/pruebacmakeopengl/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Jose/OneDrive/Desktop/pruebacmakeopengl/build/OpenGLExample.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

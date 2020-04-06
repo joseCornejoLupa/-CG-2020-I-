@@ -1,0 +1,4 @@
+C:/Users/Jose/OneDrive/Desktop/pruebacmakeopengl/build/CMakeFiles/OpenGLExample.dir
+C:/Users/Jose/OneDrive/Desktop/pruebacmakeopengl/build/CMakeFiles/GLAD.dir
+C:/Users/Jose/OneDrive/Desktop/pruebacmakeopengl/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jose/OneDrive/Desktop/pruebacmakeopengl/build/CMakeFiles/ZERO_CHECK.dir
